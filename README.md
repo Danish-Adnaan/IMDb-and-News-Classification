@@ -36,7 +36,7 @@ Develop a machine learning classification model that predicts the sentiment (pos
 
 ---
 
-## Part B: News Article Classification
+# Part B: News Article Classification
 
 ### Overview
 News organizations and aggregators benefit from categorizing articles (e.g., sports, politics, technology) to enhance content recommendation and management. This project develops a machine learning model to classify news articles into predefined categories using their textual content.
